@@ -10,6 +10,8 @@ public class Vadjagvillklassen {
 
 		System.out.println("we did it! Ändring nummer 2 bara för att");
 		
+		System.out.println("okej mr.");
+		
 		
 	}
 
