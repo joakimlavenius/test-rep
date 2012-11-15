@@ -8,7 +8,7 @@ public class Vadjagvillklassen {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("we did it! Ändring");
+		System.out.println("we did it! Ändring nummer 2 bara för att");
 		
 		
 	}
