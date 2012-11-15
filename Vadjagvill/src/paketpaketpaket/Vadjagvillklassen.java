@@ -12,6 +12,10 @@ public class Vadjagvillklassen {
 		
 		System.out.println("okej mr.");
 		
+		for(int i=0; i < 10; i++){
+			System.out.println("lol");
+		}
+		
 		
 	}
 
